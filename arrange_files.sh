@@ -1,6 +1,6 @@
 
 # Path to Windows Phone import folder
-ORIGIN="/cygdrive/c/Users/Anna/Pictures/From Windows Phone/Camera Roll/"
+ORIGIN="/path/to/From Windows Phone/Camera Roll/"
 ROOT=`pwd`
 mv "$ORIGIN"* .
 
